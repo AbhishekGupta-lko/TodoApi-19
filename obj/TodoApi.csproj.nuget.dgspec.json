@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotCoreWebApi_Project\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\AbhishekGupta-lko\\TodoApi-19\\TodoApi.csproj": {}
   },
   "projects": {
-    "E:\\DotCoreWebApi_Project\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\pc\\source\\repos\\AbhishekGupta-lko\\TodoApi-19\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotCoreWebApi_Project\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\AbhishekGupta-lko\\TodoApi-19\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "E:\\DotCoreWebApi_Project\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\AbhishekGupta-lko\\TodoApi-19\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\DotCoreWebApi_Project\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\AbhishekGupta-lko\\TodoApi-19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
